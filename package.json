@@ -1,0 +1,24 @@
+{
+  "name": "react-native-navbar-control",
+  "version": "1.0.0",
+  "description": "React Native component to control android navigation bar",
+  "main": "index.js",
+  "keywords": [
+    "react-native",
+    "react-native-component",
+    "react-component",
+    "react",
+    "native",
+    "navigation-bar",
+    "navigation-bar-control",
+    "navbar",
+    "bottom-bar",
+    "navbar-control"
+  ],
+  "repository": "https://github.com/AmyrAhmady/react-native-navbar-control.git",
+  "author": "iAmir (Amyr Ahmady) - (https://github.com/AmyrAhmady)",
+  "license": "MIT",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
