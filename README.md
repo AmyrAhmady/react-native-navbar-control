@@ -1,3 +1,6 @@
+![downloads](https://img.shields.io/npm/dt/react-native-navbar-control.svg)
+
+
 # React Native Navbar Control
 Hide or show Android navigation bar easily whenever you want
 
